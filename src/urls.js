@@ -1,5 +1,5 @@
 // Define your base URL here
-const BASE_URL = 'http://localhost:3000/api';
+const BASE_URL = 'https://url-shortener-be-xqje.onrender.com/api';
 
 // Export the URLs for different endpoints
 const URLs = {
