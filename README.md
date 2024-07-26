@@ -28,4 +28,4 @@ URL shortening is a technique to convert a long URL (site or page address) to a 
 <br><br>
 [GitHub](https://github.com/sshankars1104/url-shortener-FE.git)
 <br><br>
-[Netlify.com](https://url-shortener-fe.netlify.app)
+[Netlify.com](https://urls-shortener-fe.netlify.app)
